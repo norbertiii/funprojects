@@ -8,7 +8,9 @@ import io
     
 # Downloading the csv file from your GitHub account
 
-url = "REPLACE-THIS-WITH-THE-URL-OF-THE-CSV-FILE" # Make sure the url is the raw version of the file on GitHub
+#url = "REPLACE-THIS-WITH-THE-URL-OF-THE-CSV-FILE" # Make sure the url is the raw version of the file on GitHub
+url = "https://raw.githubusercontent.com/norbertiii/funprojects/main/FRL_GA_2021_bq-results-20220308-095202-saepg01fkh6n.csv" # Make sure the url is the raw version of the file on GitHub
+
 download = requests.get(url).content
 
 # Reading the downloaded content and turning it into a pandas dataframe
