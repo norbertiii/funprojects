@@ -1,0 +1,146 @@
+user,Year,Gender (Optional),Race/Ethnicity (Optional),Team,Tenure,Leadership Role?,I know what is expected of me at Lotus Academies. ,"I have the materials, equipment, and resources I need to meet expectations in my work. ","At Lotus Academies, I have the opportunity to do what I do best every day. ","In the last seven days, I have received recognition or praise at work. ",My manager or someone at Lotus Academies seems to care about me as a person. ,Someone at work encourages and supports me in my professional growth. ,"At Lotus Academies, my opinions seem to count. ",I am passionate about Lotus Academies' mission and values. ,The people at Lotus Academies are committed to doing excellent work. ,"I have established strong, trusted relationships with co-workers at Lotus Academies. ","In the last six months, someone at work has talked to me about my progress. ","In the last year, I have had opportunities at work to learn and grow. ",Lotus Academies provides an attractive career path for people who are interested in working in education reform. ,I feel confident that Lotus Academies will make good decisions about the growth and direction of the firm. ,I am satisfied working at Lotus Academies. ,I would recommend employment at Lotus Academies to others. ,I feel safe to express my views at work.,Lotus Academies values and acts on diverse opinions and ideas.,Lotus Academies creates an environment where I can do my best work.,"At Lotus Academies, all employees are treated with respect.",I feel valued by Lotus Academies.,"I understand the rationale behind key strategic, organizational decisions we make at Lotus Academies.","I think it’s valuable to examine and discuss the impact of race, gender, and other identities on our work at CGSF.","I have a basic understanding of concepts related to diversity, equity, and inclusion.",Lotus Academies leadership is equipped to participate in internal and external conversations about race and gender.,I am clear on which decisions I have the authority to make.,"When I work with others, it is clear who will make which decisions."
+1,2018,Male,Asian,Mathematics/English/Foreign Languages,Less than 1 year,Non-Leader,6,6,6,7,7,7,6,7,7,4,7,7,7,6,7,7,7,7,6,7,7,,,,,,
+2,2018,Male,Asian,Mathematics/English/Foreign Languages,Over 3 years,Leader,7,7,7,7,7,6,7,7,6,6,7,7,7,6,7,7,6,5,7,6,7,,,,,,
+3,2018,Male,Black,Mathematics/English/Foreign Languages,Over 3 years,Leader,7,6,7,7,7,6,7,7,7,7,7,7,6,7,7,7,7,5,7,5,7,,,,,,
+4,2018,Male,White,Mathematics/English/Foreign Languages,Less than 1 year,Non-Leader,7,7,7,6,7,6,6,7,7,6,6,7,6,6,7,7,7,6,7,7,7,,,,,,
+5,2018,Male,White,Mathematics/English/Foreign Languages,Over 3 years,Leader,6,5,6,6,7,6,6,7,6,6,6,6,7,6,6,7,6,5,6,6,6,,,,,,
+6,2018,Male,White,Support Staff/Technology,Less than 1 year,Non-Leader,6,7,6,5,7,6,5,7,7,6,7,7,6,7,7,7,6,7,6,7,7,,,,,,
+7,2018,Male,White,Visual Art/Social Studies,Less than 1 year,Leader,7,7,7,7,7,7,7,7,6,7,7,7,7,7,7,7,7,6,7,6,7,,,,,,
+8,2018,Male,White/Hispanic,Mathematics/English/Foreign Languages,Over 3 years,Non-Leader,7,5,5,4,7,7,7,7,7,7,7,7,7,7,5,7,7,7,7,7,6,,,,,,
+9,2018,Male,,Mathematics/English/Foreign Languages,Less than 1 year,Non-Leader,6,6,6,7,7,7,6,7,7,5,4,4,6,7,7,7,7,6,7,7,7,,,,,,
+10,2018,Male,,Visual Art/Social Studies,1-3 years,Non-Leader,6,7,7,6,7,6,7,7,7,7,7,6,7,6,7,7,6,6,6,7,7,,,,,,
+11,2018,Female,Black,Mathematics/English/Foreign Languages,1-3 years,Non-Leader,6,5,6,7,7,7,7,7,6,6,7,6,6,6,6,4,6,4,6,3,7,,,,,,
+12,2018,Female,Latino/Hispanic,Support Staff/Technology,1-3 years,Non-Leader,7,7,7,7,7,7,7,7,7,6,7,7,7,7,7,7,7,7,7,7,7,,,,,,
+13,2018,Female,White,Mathematics/English/Foreign Languages,Over 3 years,Leader,7,7,7,6,6,6,7,7,7,6,6,7,7,7,7,7,7,7,6,6,6,,,,,,
+14,2018,Female,White,Mathematics/English/Foreign Languages,Less than 1 year,Non-Leader,5,5,5,5,5,6,5,7,6,6,6,5,4,4,5,5,5,4,5,4,5,,,,,,
+15,2018,Female,White,Mathematics/English/Foreign Languages,Over 3 years,Non-Leader,6,7,5,6,7,6,5,7,6,6,6,6,6,6,6,6,5,4,5,5,4,,,,,,
+16,2018,Female,White,Support Staff/Technology,Over 3 years,Leader,7,5,6,7,7,4,6,6,7,7,3,7,6,6,5,7,7,4,6,6,7,,,,,,
+17,2018,Female,White,Support Staff/Technology,Less than 1 year,Non-Leader,7,7,7,7,7,7,6,7,7,6,7,7,5,7,7,7,6,6,7,6,7,,,,,,
+18,2018,Female,White,Visual Art/Social Studies,1-3 years,Non-Leader,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,6,7,6,7,,,,,,
+19,2018,Female,White,Visual Art/Social Studies,Less than 1 year,Non-Leader,6,7,7,7,7,7,7,7,7,6,7,7,7,7,7,7,6,6,7,7,7,,,,,,
+20,2018,Female,,Mathematics/English/Foreign Languages,Over 3 years,Leader,6,6,7,5,5,7,6,7,7,7,6,7,7,7,7,7,6,3,6,6,7,,,,,,
+21,2018,,,Mathematics/English/Foreign Languages,Less than 1 year,Non-Leader,6,7,7,7,7,7,7,7,7,7,7,7,5,6,7,7,6,6,6,7,7,,,,,,
+22,2018,,,Mathematics/English/Foreign Languages,Over 3 years,Non-Leader,7,6,5,7,6,6,7,7,7,7,7,6,7,6,6,7,6,3,5,6,6,,,,,,
+23,2018,,,Mathematics/English/Foreign Languages,1-3 years,Non-Leader,6,6,6,7,7,7,6,6,6,6,7,7,6,5,7,2,6,5,7,3,7,,,,,,
+24,2018,,,Mathematics/English/Foreign Languages,1-3 years,Non-Leader,6,7,5,5,7,7,4,5,6,4,6,5,4,6,6,5,2,1,5,5,5,,,,,,
+25,2018,,,Support Staff/Technology,Over 3 years,Non-Leader,6,6,6,6,7,6,6,6,5,6,6,6,5,6,6,5,6,5,5,6,6,,,,,,
+26,2018,,,Support Staff/Technology,Less than 1 year,Non-Leader,6,6,2,6,6,6,4,5,6,5,7,7,5,6,3,4,3,5,3,6,5,,,,,,
+27,2018,,,Support Staff/Technology,Less than 1 year,Non-Leader,5,7,7,6,6,7,6,7,7,5,6,5,5,5,5,7,6,6,7,7,6,,,,,,
+28,2018,,,Visual Art/Social Studies,Less than 1 year,Non-Leader,5,6,6,6,6,6,6,6,6,6,6,6,5,6,6,6,4,2,6,2,6,,,,,,
+29,2018,,,Visual Art/Social Studies,1-3 years,Non-Leader,5,5,4,3,4,3,4,7,6,5,3,4,5,5,4,6,5,4,5,5,4,,,,,,
+30,2019,Male,Asian,Foreign Language,Less than 1 year,Non-Leader,6,7,6,1,5,6,5,7,7,6,7,7,7,6,5,5,5,5,5,5,6,,,,,,
+31,2019,Male,Asian,Mathematics/English,Over 3 years,Leader,6,7,6,7,7,6,7,7,7,7,7,6,7,6,7,7,7,5,6,6,7,,,,,,
+32,2019,Male,Asian,Mathematics/English,Less than 1 year,Non-Leader,5,6,5,6,6,5,5,6,7,5,6,7,5,6,5,7,6,6,6,7,6,,,,,,
+33,2019,Male,Asian,Visual Art,Over 3 years,Non-Leader,7,7,7,7,7,6,7,7,7,7,7,6,6,6,7,6,7,5,6,6,7,,,,,,
+34,2019,Male,Black,English Language Arts,Over 3 years,Leader,7,7,6,7,7,6,7,7,7,7,7,7,7,7,7,7,7,4,6,4,7,,,,,,
+35,2019,Male,Black,Social Studies,Less than 1 year,Non-Leader,7,7,7,7,7,7,7,7,7,6,7,7,7,7,7,7,7,7,6,7,7,,,,,,
+36,2019,Male,Black,Social Studies,Less than 1 year,Non-Leader,5,7,5,7,6,5,6,6,7,5,7,5,5,7,6,6,6,7,6,5,7,,,,,,
+37,2019,Male,"Multiple or some other race, ethnicity, or origin",Mathematics/English,Over 3 years,Non-Leader,7,4,5,4,7,7,7,7,7,7,7,7,5,6,7,7,7,7,7,7,7,,,,,,
+38,2019,Male,White,Foreign Language,Less than 1 year,Non-Leader,6,5,6,7,7,7,6,6,7,5,7,7,7,6,5,5,4,6,5,7,6,,,,,,
+39,2019,Male,White,Foreign Language,Over 3 years,Leader,6,6,6,4,6,6,6,7,5,5,6,5,7,6,5,6,5,5,5,6,5,,,,,,
+40,2019,Male,White,Foreign Language,Less than 1 year,Non-Leader,6,7,6,7,6,6,6,7,7,6,6,7,7,7,7,7,7,7,6,7,6,,,,,,
+41,2019,Male,White,Social Studies,Less than 1 year,Non-Leader,5,7,5,5,7,5,6,6,7,5,5,6,6,7,6,6,6,6,6,6,6,,,,,,
+42,2019,Male,White,Social Studies,Less than 1 year,Leader,6,7,6,7,7,6,7,7,7,7,7,7,6,6,6,6,7,6,6,7,6,,,,,,
+43,2019,Male,White,Social Studies,Less than 1 year,Non-Leader,6,7,7,7,7,6,7,7,7,7,7,7,4,7,7,7,7,6,7,6,7,,,,,,
+44,2019,Male,White,Support Staff/Technology/Consultants,Over 3 years,Non-Leader,6,6,6,7,7,5,7,7,6,7,7,7,7,6,7,6,6,5,6,6,7,,,,,,
+45,2019,Male,White,Support Staff/Technology/Consultants,Less than 1 year,Non-Leader,7,7,6,6,7,6,6,7,6,7,7,7,6,6,7,7,6,6,6,6,7,,,,,,
+46,2019,Male,White,Visual Art,Over 3 years,Non-Leader,7,7,7,7,7,7,5,7,7,7,7,7,2,2,6,7,7,5,7,3,7,,,,,,
+47,2019,Female,Black,English Language Arts,Less than 1 year,Non-Leader,6,6,5,5,7,5,5,7,7,6,5,6,5,4,5,5,4,4,5,5,4,,,,,,
+48,2019,Female,Black,English Language Arts,Over 3 years,Non-Leader,6,5,6,7,7,7,6,7,5,6,6,7,6,4,6,4,5,5,6,6,7,,,,,,
+49,2019,Female,Black,Mathematics/English,Less than 1 year,Non-Leader,5,6,5,7,7,6,6,6,5,6,7,7,4,5,6,5,6,5,5,5,6,,,,,,
+50,2019,Female,Latino/Hispanic,Social Studies,Less than 1 year,Non-Leader,6,7,5,6,7,6,6,6,6,5,5,5,5,6,6,4,5,5,5,6,5,,,,,,
+51,2019,Female,Latino/Hispanic,Support Staff/Technology/Consultants,Less than 1 year,Non-Leader,6,6,5,4,5,5,5,5,5,4,5,5,4,5,5,5,3,3,5,6,5,,,,,,
+52,2019,Female,Latino/Hispanic,Support Staff/Technology/Consultants,1-3 years,Non-Leader,7,7,6,7,7,6,7,7,6,6,7,7,7,7,7,6,7,7,7,7,7,,,,,,
+53,2019,Female,"Multiple or some other race, ethnicity, or origin",Support Staff/Technology/Consultants,Less than 1 year,Non-Leader,7,7,6,6,7,6,6,7,7,7,7,7,6,7,7,7,5,6,6,6,7,,,,,,
+54,2019,Female,White,Mathematics/English,Over 3 years,Leader,7,7,7,6,7,6,6,7,7,7,5,7,6,7,7,7,7,6,6,6,7,,,,,,
+55,2019,Female,White,Mathematics/English,Over 3 years,Leader,6,7,6,7,6,7,7,7,7,7,6,7,7,6,7,7,6,6,6,6,6,,,,,,
+56,2019,Female,White,Mathematics/English,1-3 years,Non-Leader,5,3,5,5,7,3,6,5,7,5,6,6,2,3,6,4,4,3,5,5,3,,,,,,
+57,2019,Female,White,Mathematics/English,Over 3 years,Non-Leader,5,6,6,6,7,6,6,7,7,4,6,6,6,6,7,7,6,5,6,6,6,,,,,,
+58,2019,Female,White,Mathematics/English,Less than 1 year,Non-Leader,5,6,5,4,7,6,5,7,6,5,3,6,6,4,6,5,5,4,5,6,5,,,,,,
+59,2019,Female,White,Social Studies,1-3 years,Non-Leader,6,7,7,7,6,7,6,5,6,7,7,7,6,6,6,6,5,4,5,4,6,,,,,,
+60,2019,Female,White,Social Studies,Over 3 years,Non-Leader,6,7,6,7,7,5,6,7,7,7,6,5,6,6,6,6,6,5,6,6,5,,,,,,
+61,2019,Female,White,Social Studies,Less than 1 year,Non-Leader,6,7,6,6,7,7,5,7,7,6,6,7,7,7,7,7,6,5,7,6,5,,,,,,
+62,2019,Female,White,Support Staff/Technology/Consultants,Less than 1 year,Non-Leader,6,7,6,6,4,5,5,7,7,5,7,7,4,7,6,6,5,6,7,6,6,,,,,,
+63,2019,Female,White,Support Staff/Technology/Consultants,1-3 years,Non-Leader,5,5,5,6,6,5,5,7,6,5,5,6,4,4,5,4,5,4,5,4,4,,,,,,
+64,2019,Female,White,Support Staff/Technology/Consultants,1-3 years,Non-Leader,5,6,5,6,6,6,5,6,5,5,6,6,4,6,6,5,1,1,3,5,5,,,,,,
+65,2019,Female,White,Support Staff/Technology/Consultants,Over 3 years,Leader,7,6,6,6,7,6,6,6,7,7,6,7,6,6,4,7,6,4,5,6,6,,,,,,
+66,2019,Female,White,Visual Art,Over 3 years,Non-Leader,6,7,6,7,7,7,7,7,6,7,7,7,6,6,6,6,6,5,6,4,7,,,,,,
+67,2019,,White,Support Staff/Technology/Consultants,Over 3 years,Non-Leader,6,6,6,5,6,5,6,6,5,7,5,6,5,6,5,5,6,5,5,6,5,,,,,,
+68,2019,,,Visual Art,Less than 1 year,Non-Leader,5,4,5,7,7,7,5,7,5,6,7,7,5,5,6,5,3,4,5,5,5,,,,,,
+69,2020,Male,Asian,Foreign Language,1-3 years,Non-Leader,6,6,5,6,4,5,6,7,7,7,5,6,7,6,6,5,6,6,6,5,6,,,,,,
+70,2020,Male,Asian,Mathematics/English,Over 3 years,Leader,6,7,7,7,7,7,7,7,7,6,7,7,6,6,7,7,6,5,6,5,7,,,,,,
+71,2020,Male,Black,English Language Arts,Over 3 years,Leader,7,7,6,7,7,6,7,7,7,7,7,5,4,7,7,7,7,5,7,4,7,,,,,,
+72,2020,Male,Black,Social Studies,Less than 1 year,Non-Leader,5,5,6,7,6,7,6,6,6,6,7,6,5,6,5,5,6,5,5,6,6,,,,,,
+73,2020,Male,Latino/Hispanic,Mathematics/English,Over 3 years,Non-Leader,7,7,5,4,7,7,7,7,6,6,5,5,6,6,6,7,7,7,6,7,6,,,,,,
+74,2020,Male,White,Foreign Language,1-3 years,Non-Leader,7,7,7,6,6,6,6,7,6,6,7,7,6,6,6,6,6,3,6,5,6,,,,,,
+75,2020,Male,White,Social Studies,Less than 1 year,Non-Leader,3,6,5,3,6,4,5,6,5,5,4,5,5,5,5,5,6,5,5,6,5,,,,,,
+76,2020,Male,White,Social Studies,1-3 years,Leader,5,7,6,7,7,6,7,6,5,7,5,7,4,6,6,6,5,5,6,6,6,,,,,,
+77,2020,Male,White,Social Studies,Less than 1 year,Non-Leader,6,7,6,7,7,7,7,7,7,7,7,7,5,6,7,7,7,5,6,6,7,,,,,,
+78,2020,Male,White,Support Staff/Technology/Consultants,1-3 years,Non-Leader,6,6,5,7,7,6,5,7,6,7,7,7,6,6,7,6,5,6,6,5,6,,,,,,
+79,2020,Female,Black,English Language Arts,Less than 1 year,Leader,7,5,6,6,6,6,6,7,7,5,7,7,5,7,7,7,5,5,6,6,7,,,,,,
+80,2020,Female,Black,English Language Arts,Over 3 years,Non-Leader,6,6,6,6,7,5,6,7,6,6,6,5,5,4,5,7,6,4,5,6,4,,,,,,
+81,2020,Female,Black,Mathematics/English,Less than 1 year,Non-Leader,3,5,4,6,7,5,3,5,5,5,6,5,2,3,4,4,3,2,4,4,3,,,,,,
+82,2020,Female,Black,Support Staff/Technology/Consultants,Less than 1 year,Non-Leader,6,6,4,4,5,5,4,7,7,7,6,4,4,4,4,4,5,4,4,4,4,,,,,,
+83,2020,Female,Black,Support Staff/Technology/Consultants,1-3 years,Non-Leader,3,5,4,7,7,7,4,7,4,6,7,5,3,4,6,4,3,3,5,5,5,,,,,,
+84,2020,Female,Latino/Hispanic,English Language Arts,Less than 1 year,Non-Leader,6,6,5,6,7,6,5,7,6,5,6,6,6,6,6,6,5,4,5,5,6,,,,,,
+85,2020,Female,Latino/Hispanic,Social Studies,Less than 1 year,Non-Leader,5,7,5,6,6,5,4,5,6,6,5,5,4,5,4,5,5,3,3,4,5,,,,,,
+86,2020,Female,Latino/Hispanic,Support Staff/Technology/Consultants,Over 3 years,Non-Leader,7,7,6,7,6,6,6,7,6,6,7,6,6,6,6,6,6,6,7,7,6,,,,,,
+87,2020,Female,"Multiple or some other race, ethnicity, or origin",Support Staff/Technology/Consultants,1-3 years,Non-Leader,6,7,2,7,6,3,4,7,7,2,7,5,5,6,4,6,2,5,5,6,5,,,,,,
+88,2020,Female,White,Foreign Language,Less than 1 year,Non-Leader,6,6,5,6,5,4,4,7,7,5,4,7,4,5,6,6,4,4,5,6,4,,,,,,
+89,2020,Female,White,Foreign Language,Over 3 years,Non-Leader,5,6,6,4,7,7,5,7,7,6,6,7,6,6,6,7,5,4,6,5,6,,,,,,
+90,2020,Female,White,Mathematics/English,Less than 1 year,Non-Leader,5,5,6,3,7,7,6,7,7,6,4,7,7,7,6,6,6,6,5,7,7,,,,,,
+91,2020,Female,White,Social Studies,1-3 years,Non-Leader,6,7,7,7,7,7,6,7,6,6,7,7,7,5,6,7,5,5,6,6,6,,,,,,
+92,2020,Female,White,Social Studies,1-3 years,Non-Leader,6,6,7,5,7,7,6,6,7,7,7,7,6,6,7,5,6,5,6,4,6,,,,,,
+93,2020,Female,White,Support Staff/Technology/Consultants,Over 3 years,Leader,7,6,6,6,7,6,7,7,7,7,6,7,6,6,6,7,6,5,6,6,7,,,,,,
+94,2020,Female,White,Support Staff/Technology/Consultants,Over 3 years,Non-Leader,5,5,5,6,6,5,6,6,5,6,5,6,6,6,5,5,6,4,4,5,6,,,,,,
+95,2020,Female,White,Support Staff/Technology/Consultants,Less than 1 year,Non-Leader,7,7,6,7,7,6,6,7,7,6,7,7,7,7,7,6,6,6,6,7,6,,,,,,
+96,2020,Female,White,Visual Art,Over 3 years,Non-Leader,1,7,6,7,7,7,6,7,7,7,7,4,6,7,5,6,7,5,7,7,7,,,,,,
+97,2020,,Black,English Language Arts,Less than 1 year,Non-Leader,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,,,,,,
+98,2020,,Black,Social Studies,1-3 years,Non-Leader,7,7,4,7,7,6,7,7,7,7,7,7,6,7,7,7,7,5,4,7,7,,,,,,
+99,2020,,Latino/Hispanic,English Language Arts,Less than 1 year,Non-Leader,5,5,5,4,5,4,4,7,6,4,4,4,4,6,5,5,4,4,5,5,4,,,,,,
+100,2020,,White,Foreign Language,Less than 1 year,Non-Leader,6,5,4,2,7,6,3,6,6,6,6,7,7,4,5,6,6,5,5,6,5,,,,,,
+101,2020,,White,Foreign Language,Over 3 years,Leader,6,6,4,4,6,5,5,5,6,6,5,3,7,5,5,5,4,5,5,5,6,,,,,,
+102,2020,,White,Mathematics/English,Over 3 years,Leader,5,6,7,5,6,6,7,7,7,7,5,6,7,6,7,7,5,4,6,5,7,,,,,,
+103,2020,,White,Social Studies,Over 3 years,Non-Leader,6,7,5,7,6,6,6,7,6,6,6,6,6,5,6,6,6,5,5,6,4,,,,,,
+104,2020,,White,Support Staff/Technology/Consultants,Over 3 years,Non-Leader,6,7,6,7,7,5,7,7,6,6,7,7,6,5,6,5,6,5,6,6,6,,,,,,
+105,2020,,,English Language Arts,Less than 1 year,Non-Leader,6,6,5,7,7,7,7,7,7,5,7,6,6,6,6,7,7,7,6,6,6,,,,,,
+106,2020,,,Mathematics/English,1-3 years,Non-Leader,5,6,5,1,6,3,3,6,6,7,1,3,1,1,3,2,2,2,5,5,1,,,,,,
+107,2020,,,Visual Art,Over 3 years,Non-Leader,7,7,7,6,7,6,7,7,7,7,6,6,6,6,7,6,6,5,6,6,7,,,,,,
+108,2020,,,Visual Art,1-3 years,Non-Leader,5,6,3,6,7,6,3,6,6,4,6,4,4,4,4,4,2,7,3,4,4,,,,,,
+109,2021,Male,Asian,Human Resources,Over 3 years,Leader,6,6,6,7,7,5,7,7,7,5,6,6,7,6,6,7,6,5,6,5,6,7,6,5,4,5,5
+110,2021,Male,Asian,Mathematics,1-3 years,Non-Leader,4,5,5,4,7,5,3,7,7,5,6,5,4,6,2,6,3,6,4,7,4,5,7,5,6,4,5
+111,2021,Male,Black,Mathematics,1-3 years,Leader,7,7,7,7,7,6,7,7,7,6,7,6,3,7,7,7,7,7,7,5,7,7,7,7,6,7,5
+112,2021,Male,Black,Mathematics,1-3 years,Leader,6,5,6,4,6,6,7,6,6,6,6,7,6,7,6,6,7,5,6,6,7,7,7,6,5,5,5
+113,2021,Male,Black,Principal,Over 3 years,Leader,7,7,7,6,7,6,7,7,7,7,7,7,6,7,7,7,7,6,7,6,7,7,7,7,5,7,6
+114,2021,Male,"Multiple or some other race, ethnicity, or origin",Mathematics,Over 3 years,Non-Leader,7,7,5,5,7,7,7,7,7,7,4,7,4,7,5,7,7,7,5,6,6,7,5,6,5,7,6
+115,2021,Male,White,Foreign Languages,1-3 years,Non-Leader,5,6,6,7,7,6,5,6,6,5,5,7,6,7,6,7,6,5,6,5,6,5,7,6,5,5,4
+116,2021,Male,White,Foreign Languages,Over 3 years,Leader,6,5,4,4,7,6,6,7,6,5,5,4,6,6,5,6,5,5,4,6,6,6,7,6,5,5,5
+117,2021,Male,White,Social Studies,1-3 years,Non-Leader,6,6,6,6,6,6,5,6,6,5,6,6,6,6,6,6,6,5,6,5,6,5,6,5,5,6,5
+118,2021,Male,White,Social Studies,1-3 years,Leader,6,7,6,3,7,6,7,7,4,7,5,7,6,6,6,6,6,6,5,5,7,6,7,6,5,5,5
+119,2021,Male,White,Social Studies,1-3 years,Non-Leader,6,7,6,7,7,7,6,7,7,7,7,7,3,7,7,7,7,5,7,5,7,5,7,7,3,6,5
+120,2021,Male,White,Technology,1-3 years,Non-Leader,7,6,6,6,7,5,5,7,7,6,7,7,6,5,7,6,3,5,6,5,6,5,6,6,5,6,5
+121,2021,Male,White,Visual Arts,Less than 1 year,Non-Leader,6,5,6,6,7,6,6,6,6,6,6,6,6,6,6,6,6,6,6,4,6,6,7,6,4,5,4
+122,2021,Female,Asian,Administration,Less than 1 year,Non-Leader,5,7,7,7,6,5,6,7,7,4,5,7,7,7,6,7,5,6,6,7,7,4,7,7,4,4,5
+123,2021,Female,Asian,Principal,Less than 1 year,Leader,7,7,7,7,7,7,7,7,6,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,5,5,5
+124,2021,Female,Asian,Visual Arts,Less than 1 year,Non-Leader,5,5,4,4,7,5,3,7,4,3,6,7,4,5,5,5,2,3,4,4,3,1,7,7,4,1,1
+125,2021,Female,Black,Administration,1-3 years,Leader,7,6,7,4,5,7,7,7,7,6,7,7,6,6,7,7,6,5,6,7,7,6,4,6,4,7,5
+126,2021,Female,Latino/Hispanic,Consultant,Over 3 years,Non-Leader,6,6,6,7,7,7,7,7,7,7,7,7,6,7,7,7,6,6,6,7,7,7,7,7,6,6,6
+127,2021,Female,Latino/Hispanic,English Language Arts,Less than 1 year,Non-Leader,4,6,5,6,7,7,5,7,5,6,6,6,6,5,6,6,6,6,5,5,6,5,7,6,6,5,5
+128,2021,Female,Latino/Hispanic,English Language Arts,1-3 years,Non-Leader,6,6,6,5,6,6,5,6,6,4,5,5,2,6,6,4,5,5,6,5,6,5,7,6,4,5,5
+129,2021,Female,White,Foreign Languages,Less than 1 year,Non-Leader,6,6,5,4,5,6,5,7,6,5,6,5,5,6,6,7,5,4,5,6,5,5,6,6,4,4,4
+130,2021,Female,White,Foreign Languages,Over 3 years,Non-Leader,6,6,6,2,7,6,6,7,7,6,6,7,7,6,6,6,6,5,5,6,6,6,7,7,6,5,5
+131,2021,Female,White,Mathematics,Over 3 years,Leader,6,6,7,5,7,5,5,7,7,6,3,7,6,5,7,7,5,2,5,6,7,5,7,5,3,3,3
+132,2021,Female,White,Mathematics,Over 3 years,Leader,6,5,7,4,6,6,5,7,7,6,5,6,7,6,7,7,6,5,6,6,5,6,7,6,5,6,6
+133,2021,Female,White,Principal,Over 3 years,Leader,7,6,7,6,7,6,7,7,7,7,4,7,6,6,4,6,6,6,6,6,7,7,5,5,5,7,6
+134,2021,Female,White,Social Studies,Over 3 years,Non-Leader,5,7,6,7,7,7,6,7,6,6,7,5,6,5,5,6,5,5,5,4,4,3,6,6,2,5,5
+135,2021,Female,White,Social Studies,1-3 years,Non-Leader,6,7,7,6,7,7,6,7,7,4,7,7,7,7,7,7,7,6,6,6,6,6,6,6,6,5,5
+136,2021,Female,White,Support Staff,Less than 1 year,Non-Leader,7,7,7,7,7,7,7,7,7,7,4,7,4,7,7,7,7,7,7,7,7,7,7,7,4,6,6
+137,2021,Female,White,Support Staff,1-3 years,Non-Leader,5,7,6,6,6,5,6,6,6,7,6,6,6,6,6,6,6,6,6,5,6,6,7,7,6,4,4
+138,2021,Female,White,Technology,Over 3 years,Non-Leader,6,5,6,6,6,6,6,6,6,6,5,6,5,6,6,6,6,5,5,6,6,5,6,6,5,6,4
+139,2021,Female,White,Technology,Over 3 years,Non-Leader,6,6,6,6,6,5,5,7,7,6,6,7,4,6,6,4,5,5,5,5,5,5,6,6,5,6,5
+140,2021,,Black,English Language Arts,Over 3 years,Leader,7,6,7,4,7,5,7,7,6,6,6,6,5,6,7,6,7,5,6,5,6,6,7,7,3,5,5
+141,2021,,Latino/Hispanic,English Language Arts,Less than 1 year,Non-Leader,6,6,6,5,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,7,6,6,6,6
+142,2021,,Latino/Hispanic,English Language Arts,Less than 1 year,Non-Leader,5,5,5,2,7,6,6,7,6,6,4,5,2,4,5,4,4,4,4,4,4,3,7,7,2,6,4
+143,2021,,White,Visual Arts,Less than 1 year,Non-Leader,7,7,7,7,7,7,6,6,7,6,7,7,6,3,7,7,6,5,7,6,6,5,7,7,6,7,7
+144,2021,,,Administration,Less than 1 year,Non-Leader,7,6,4,7,7,7,6,7,7,7,7,7,4,4,4,7,4,4,4,7,4,4,7,7,4,1,2
+145,2021,,,Visual Arts,1-3 years,Non-Leader,5,5,5,5,7,7,4,6,6,6,6,4,5,5,5,5,4,3,4,3,4,4,5,5,4,4,4
